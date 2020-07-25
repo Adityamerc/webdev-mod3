@@ -1,0 +1,20 @@
+h1{
+	margin-top: 0px;
+	font-family: 'Quattrocento', serif;
+}
+#header{
+	border-bottom: 2px solid black;
+	border-top: 2px solid black; 
+}
+li{
+	font-family: 'Quattrocento', serif;
+}
+
+section{
+	background-color: sandybrown;
+	font-family: 'Quattrocento', serif;
+}
+h3, h2{
+	margin-bottom: 20px;
+	font-family: 'Quattrocento', serif;
+}
